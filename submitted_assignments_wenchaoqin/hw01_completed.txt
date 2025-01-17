@@ -1,1 +1,10 @@
-hw01 wenchao qin 
+        . 
+       ,O,
+      ,OOO,
+'oooooOOOOOooooo'
+  `OOOOOOOOOOO`
+    `OOOOOOO`
+    OOOO'OOOO
+   OOO'   'OOO
+  O'         'O
+::::FINISHED!::::
